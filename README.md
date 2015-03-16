@@ -8,9 +8,9 @@ Este es tu repositorio que utilizarás durante todo el curso. Todos los ayudante
 
 Asegúrate de llenar lo siguiente:
 
-| Nº Alumno    | Nombre              | Email UC      |
-|:-------------|:--------------------|:--------------|
-| XXXXXXXXXX   | Nombre alumno       | correo@uc.cl  |
+| Nº Alumno    | Nombre              | Email UC           |
+|:-------------|:--------------------|:-------------------|
+| 12612529     | Javier Carrasco     | jlcarrasco@uc.cl   |
 
 Si tienes dudas de cómo utilizar `Markdown`, puedes ir a [esta página.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
